@@ -19,4 +19,3 @@ while True:
     pythoncom.PumpWaitingMessages()
     time.sleep(0.1)
     
-    but annathe house sits on a hillran unattained of the many many many within
